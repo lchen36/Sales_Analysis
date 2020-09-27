@@ -5,6 +5,7 @@ I used Python Pandas & Python Matplotlib to analyze and answer business question
 * Drop NaN values from DataFrame
 * Removing rows based on a condition
 * Change the type of columns (to_numeric, to_datetime, astype)
+<img width="628" alt="截屏2020-09-27 下午7 51 05" src="https://user-images.githubusercontent.com/68720881/94378930-155ade00-00fb-11eb-8c16-ad7f98f9f2b9.png">
 
 ## Data Exploration
 * What was the best month for sales? How much was earned that month?
