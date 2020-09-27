@@ -13,10 +13,10 @@ I used Python Pandas & Python Matplotlib to analyze and answer business question
 * What products are most often sold together?
 * What product sold the most? Why do you think it sold the most?
 
-To answer these questions we walk through many different pandas & matplotlib methods. They include:
+To answer these questions I walked through many different pandas & matplotlib methods. They include:
 
-Concatenating multiple csvs together to create a new DataFrame (pd.concat)
-Adding columns
+1. Concatenating multiple csvs together to create a new DataFrame (pd.concat)
+2. Adding columns
 Parsing cells as strings to make new columns (.str)
 Using the .apply() method
 Using groupby to perform aggregate analysis
