@@ -17,8 +17,8 @@ To answer these questions I walked through many different pandas & matplotlib me
 
 1. Concatenating multiple csvs together to create a new DataFrame (pd.concat)
 2. Adding columns
-Parsing cells as strings to make new columns (.str)
-Using the .apply() method
-Using groupby to perform aggregate analysis
-Plotting bar charts and lines graphs to visualize our results
-Labeling our graphs
+3. Parsing cells as strings to make new columns (.str)
+4. Using the .apply() method
+5. Using groupby to perform aggregate analysis
+6. Plotting bar charts and lines graphs to visualize our results
+7. Labeling our graphs
