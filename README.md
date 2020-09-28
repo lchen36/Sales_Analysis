@@ -1,5 +1,6 @@
 # Sales_Analysis
 I used Python Pandas & Python Matplotlib to analyze and answer business questions about 12 months worth of sales data. The data contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc.
+
 <img width="821" alt="截屏2020-09-27 下午8 08 50" src="https://user-images.githubusercontent.com/68720881/94379289-49cf9980-00fd-11eb-9611-87d2ab446f36.png">
 
 ## Data Cleaning
